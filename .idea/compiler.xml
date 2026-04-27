@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="21" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-AoutRefMapFile=C:\Users\32131\Desktop\fellowfinderlight-universal\build\classes\java\main\fellowfinderlight-fabric-mc1.21-refmap.json -AdefaultObfuscationEnv=named:intermediary -Aquiet=true -AoutMapFileNamedIntermediary=C:\Users\32131\Desktop\fellowfinderlight-universal\build\loom-cache\mixin-map-net.fabricmc.yarn.1_21.1.21+build.1-v2.main.tiny -AinMapFileNamedIntermediary=C:\Users\32131\.gradle\caches\fabric-loom\1.21\net.fabricmc.yarn.1_21.1.21+build.1-v2\mappings.tiny" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="fellowfinderlight-universal.test" options="-AoutRefMapFile=C:\Users\32131\Desktop\fellowfinderlight-universal\build\classes\java\test\test-fellowfinderlight-fabric-mc1.21-refmap.json -AdefaultObfuscationEnv=named:intermediary -Aquiet=true -AoutMapFileNamedIntermediary=C:\Users\32131\Desktop\fellowfinderlight-universal\build\loom-cache\mixin-map-net.fabricmc.yarn.1_21.1.21+build.1-v2.test.tiny -AinMapFileNamedIntermediary=C:\Users\32131\.gradle\caches\fabric-loom\1.21\net.fabricmc.yarn.1_21.1.21+build.1-v2\mappings.tiny" />
+    </option>
+  </component>
+</project>

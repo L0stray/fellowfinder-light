@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "fellowfinderlight",
+  "version": "${version}",
+  "name": "FellowFinder Light",
+  "description": "专注超视距队友感知的超轻量模组，即使朋友在视野之外也能感知彼此方位。",
+  "authors": [
+    "Apeiria_"
+  ],
+  "contributors": [
+    "slkhsgvsvn (qh)",
+    "Kaleido_Flow",
+    "134jijie"
+  ],
+  "contact": {
+    "homepage": "https://github.com/L0stray/fellowfinder-light",
+    "sources": "https://github.com/L0stray/fellowfinder-light"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/fellowfinderlight/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.fellowfinderlight.FellowFinderLight"
+    ],
+    "client": [
+      "com.example.fellowfinderlight.FellowFinderLight"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.21",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
